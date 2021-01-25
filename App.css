@@ -1,0 +1,37 @@
+.listForm{
+    padding-top: 30px;
+}
+.lists{
+    padding: 30px 10px;
+}
+.oneList{
+    background-color: #e2e4e6;
+    margin : 10px 20px;
+}
+.addCard{
+    text-align: center;
+    margin: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+.card{
+    background-color: white;
+    margin: 10px;
+}
+.listHeading{
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+.cardData{
+    padding: 20px;
+}
+.editForm{
+    padding: 20px;
+    text-align: center;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
